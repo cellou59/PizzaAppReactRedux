@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ba7bdef3.chunk.css",
+    "main.js": "/static/js/main.19039288.chunk.js",
+    "main.js.map": "/static/js/main.19039288.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.bf73a185.chunk.js": "/static/js/2.bf73a185.chunk.js",
+    "static/js/2.bf73a185.chunk.js.map": "/static/js/2.bf73a185.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6c640e39ab56adb2548d3e53eb387162.js": "/precache-manifest.6c640e39ab56adb2548d3e53eb387162.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ba7bdef3.chunk.css.map": "/static/css/main.ba7bdef3.chunk.css.map",
+    "static/media/4-fromages.jpg": "/static/media/4-fromages.bf16a90d.jpg",
+    "static/media/App.scss": "/static/media/background-pizza.d0cb1346.jpg",
+    "static/media/marguerita.jpg": "/static/media/marguerita.44ae2bd2.jpg",
+    "static/media/pepperoni.jpg": "/static/media/pepperoni.b9c11f75.jpg",
+    "static/media/reine.jpg": "/static/media/reine.f4fde97f.jpg"
+  }
+}
